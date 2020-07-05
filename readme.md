@@ -22,7 +22,7 @@ Please follow the [installation](#installation) instruction and execute the foll
 
 ```javascript
 var sibTracker = require("@wecre8websites/sendinblue-tracker").sibTracker;
-var apiKey = "YOUR-API-KEY"; //Replace woth your SIB API key
+var apiKey = "YOUR-API-KEY"; //Replace with your SIB API key
 var sib = new sibTracker(apiKey);
 
 /**
