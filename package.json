@@ -1,6 +1,6 @@
 {
   "name": "@wecre8websites/sendinblue-tracker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SendInBlue REST Event API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
