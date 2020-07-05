@@ -1,0 +1,20 @@
+{
+  "name": "sendinblue-tracker",
+  "version": "1.0.0",
+  "description": "SendInBlue REST Event API",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Jonathan St-Jean @ wecre8websites",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "typescript": "^3.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wecre8websites/sendinblueTracker.git"
+  }
+}
