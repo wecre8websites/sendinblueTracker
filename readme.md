@@ -13,7 +13,7 @@ The following recommended installation requires [npm](https://npmjs.org/). If yo
 Then install it via:
 
 ```shell
-npm install sibTracker --save
+npm install sendinblue-tracker --save
 ```
 
 ## Usage
