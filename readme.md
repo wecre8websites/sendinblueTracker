@@ -21,7 +21,7 @@ npm install @wecre8websites/sendinblue-tracker --save
 Please follow the [installation](#installation) instruction and execute the following JS code:
 
 ```javascript
-var sibTracker = require("sendinblue-tracker").sibTracker;
+var sibTracker = require("@wecre8websites/sendinblue-tracker").sibTracker;
 var apiKey = "YOUR-API-KEY"; //Replace woth your SIB API key
 var sib = new sibTracker(apiKey);
 
